@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: 865be6159cfe2f147921ab53d96749ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2019767610053749308
+    second: Knight_Run_dir5_0
+  - first:
+      213: -5483405218906546501
+    second: Knight_Run_dir5_1
+  - first:
+      213: -4935767960067896005
+    second: Knight_Run_dir5_2
+  - first:
+      213: -868735521687556648
+    second: Knight_Run_dir5_3
+  - first:
+      213: 2833061200117285487
+    second: Knight_Run_dir5_4
+  - first:
+      213: -6060556540822022640
+    second: Knight_Run_dir5_5
+  - first:
+      213: 1239768207743471984
+    second: Knight_Run_dir5_6
+  - first:
+      213: 117203068655317345
+    second: Knight_Run_dir5_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight_Run_dir5_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 629
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 2.5, y: -37}
+        - {x: 0.5, y: -30}
+        - {x: 5.5, y: -27}
+        - {x: 8.5, y: -3}
+        - {x: 13.5, y: -8}
+        - {x: 17.5, y: -9}
+        - {x: 24.5, y: -5}
+        - {x: 24.5, y: 5}
+        - {x: 16.5, y: 14}
+        - {x: 20.5, y: 16}
+        - {x: 23.5, y: 32}
+        - {x: 13.5, y: 40}
+        - {x: -1.5, y: 40}
+        - {x: -7.5, y: 36}
+        - {x: -7.5, y: 29}
+        - {x: -20.5, y: 26}
+        - {x: -24.5, y: 19}
+        - {x: -24.5, y: -29}
+        - {x: -22.5, y: -37}
+        - {x: -17.5, y: -40}
+        - {x: -3.5, y: -40}
+      tessellationDetail: 0.43
+      bones: []
+      spriteID: 4c518e15f0858f3e0800000000000000
+      internalID: -2019767610053749308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Run_dir5_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 626
+        width: 55
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -4.5, y: -40.5}
+        - {x: -4.5, y: -32.5}
+        - {x: 4.5, y: -23.5}
+        - {x: 3.5, y: -14.5}
+        - {x: 7.5, y: -9.5}
+        - {x: 9.5, y: -1.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 23.5, y: -6.5}
+        - {x: 27.5, y: -1.5}
+        - {x: 27.5, y: 5.5}
+        - {x: 19.5, y: 13.5}
+        - {x: 21.5, y: 20.5}
+        - {x: 23.5, y: 28.5}
+        - {x: 23.5, y: 32.5}
+        - {x: 13.5, y: 42.5}
+        - {x: 0.5, y: 42.5}
+        - {x: -4.5, y: 39.5}
+        - {x: -6.5, y: 29.5}
+        - {x: -18.5, y: 28.5}
+        - {x: -20.5, y: 24.5}
+        - {x: -23.5, y: 19.5}
+        - {x: -27.5, y: 16.5}
+        - {x: -27.5, y: 1.5}
+        - {x: -21.5, y: -3.5}
+        - {x: -14.5, y: -8.5}
+        - {x: -16.5, y: -10.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -20.5, y: -21.5}
+        - {x: -20.5, y: -27.5}
+        - {x: -24.5, y: -32.5}
+        - {x: -24.5, y: -34.5}
+        - {x: -15.5, y: -42.5}
+        - {x: -6.5, y: -42.5}
+      tessellationDetail: 0.53
+      bones: []
+      spriteID: bbe5d87710807e3b0800000000000000
+      internalID: -5483405218906546501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Run_dir5_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 628
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -6.5, y: -33}
+        - {x: 1.5, y: -28}
+        - {x: 10.5, y: -18}
+        - {x: 10.5, y: -3}
+        - {x: 16.5, y: -7}
+        - {x: 23.5, y: -7}
+        - {x: 26.5, y: -4}
+        - {x: 26.5, y: 3}
+        - {x: 18.5, y: 11}
+        - {x: 22.5, y: 27}
+        - {x: 22.5, y: 31}
+        - {x: 12.5, y: 41}
+        - {x: -2.5, y: 41}
+        - {x: -6.5, y: 35}
+        - {x: -7.5, y: 27}
+        - {x: -13.5, y: 27}
+        - {x: -18.5, y: 25}
+        - {x: -21.5, y: 22}
+        - {x: -26.5, y: 15}
+        - {x: -26.5, y: -1}
+        - {x: -16.5, y: -10}
+        - {x: -12.5, y: -12}
+        - {x: -17.5, y: -15}
+        - {x: -24.5, y: -21}
+        - {x: -26.5, y: -24}
+        - {x: -26.5, y: -36}
+        - {x: -22.5, y: -41}
+        - {x: -14.5, y: -41}
+      tessellationDetail: 0.503
+      bones: []
+      spriteID: b3d066ee031a08bb0800000000000000
+      internalID: -4935767960067896005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Run_dir5_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 383
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -32}
+        - {x: 6, y: -29}
+        - {x: 8, y: -20}
+        - {x: 12, y: -13}
+        - {x: 22, y: -13}
+        - {x: 24, y: -11}
+        - {x: 24, y: -1}
+        - {x: 16, y: 9}
+        - {x: 18, y: 11}
+        - {x: 21, y: 19}
+        - {x: 20, y: 26}
+        - {x: 15, y: 32}
+        - {x: 11, y: 35}
+        - {x: -3, y: 35}
+        - {x: -8, y: 32}
+        - {x: -14, y: 21}
+        - {x: -18, y: 19}
+        - {x: -22, y: 14}
+        - {x: -24, y: 6}
+        - {x: -24, y: -11}
+        - {x: -21, y: -16}
+        - {x: -24, y: -25}
+        - {x: -24, y: -33}
+        - {x: -22, y: -35}
+        - {x: -2, y: -35}
+      tessellationDetail: 0.49
+      bones: []
+      spriteID: 8ddac0255a1a1f3f0800000000000000
+      internalID: -868735521687556648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Run_dir5_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 379
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -5, y: -34.5}
+        - {x: -2, y: -34.5}
+        - {x: 3, y: -29.5}
+        - {x: 3, y: -26.5}
+        - {x: 9, y: -26.5}
+        - {x: 12, y: -23.5}
+        - {x: 15, y: -18.5}
+        - {x: 17, y: -14.5}
+        - {x: 22, y: -11.5}
+        - {x: 24, y: -9.5}
+        - {x: 24, y: -1.5}
+        - {x: 20, y: 4.5}
+        - {x: 17, y: 10.5}
+        - {x: 22, y: 17.5}
+        - {x: 21, y: 29.5}
+        - {x: 15, y: 36.5}
+        - {x: 12, y: 37.5}
+        - {x: -2, y: 37.5}
+        - {x: -7, y: 34.5}
+        - {x: -11, y: 23.5}
+        - {x: -16, y: 18.5}
+        - {x: -18, y: 8.5}
+        - {x: -21, y: 4.5}
+        - {x: -24, y: -0.5}
+        - {x: -24, y: -36.5}
+        - {x: -23, y: -37.5}
+        - {x: -12, y: -37.5}
+      tessellationDetail: 0.503
+      bones: []
+      spriteID: f62ceebb62e015720800000000000000
+      internalID: 2833061200117285487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Run_dir5_5
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 378
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9, y: -36}
+        - {x: -9, y: -31}
+        - {x: -4, y: -25}
+        - {x: 3, y: -19}
+        - {x: 1, y: -27}
+        - {x: 5, y: -31}
+        - {x: 10, y: -33}
+        - {x: 18, y: -33}
+        - {x: 21, y: -30}
+        - {x: 21, y: -25}
+        - {x: 23, y: -16}
+        - {x: 27, y: -11}
+        - {x: 27, y: -3}
+        - {x: 23, y: 2}
+        - {x: 21, y: 3}
+        - {x: 27, y: 10}
+        - {x: 27, y: 32}
+        - {x: 19, y: 39}
+        - {x: 6, y: 39}
+        - {x: 2, y: 37}
+        - {x: 0, y: 34}
+        - {x: -1, y: 25}
+        - {x: -8, y: 19}
+        - {x: -10, y: 14}
+        - {x: -14, y: 5}
+        - {x: -17, y: 3}
+        - {x: -21, y: -6}
+        - {x: -21, y: -17}
+        - {x: -24, y: -20}
+        - {x: -27, y: -28}
+        - {x: -27, y: -36}
+        - {x: -23, y: -39}
+        - {x: -12, y: -39}
+      tessellationDetail: 0.47
+      bones: []
+      spriteID: 0161223bfe394eba0800000000000000
+      internalID: -6060556540822022640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Run_dir5_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 125
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -15.5, y: -34}
+        - {x: -15.5, y: -30}
+        - {x: -8.5, y: -30}
+        - {x: -0.5, y: -22}
+        - {x: 1.5, y: -18}
+        - {x: 5.5, y: -23}
+        - {x: 8.5, y: -32}
+        - {x: 15.5, y: -37}
+        - {x: 21.5, y: -37}
+        - {x: 29.5, y: -31}
+        - {x: 29.5, y: -22}
+        - {x: 24.5, y: -15}
+        - {x: 28.5, y: -11}
+        - {x: 29.5, y: 0}
+        - {x: 29.5, y: 29}
+        - {x: 23.5, y: 36}
+        - {x: 20.5, y: 37}
+        - {x: 6.5, y: 37}
+        - {x: 1.5, y: 34}
+        - {x: 1.5, y: 25}
+        - {x: -5.5, y: 17}
+        - {x: -7.5, y: 12}
+        - {x: -7.5, y: 7}
+        - {x: -12.5, y: 4}
+        - {x: -19.5, y: -4}
+        - {x: -18.5, y: -7}
+        - {x: -20.5, y: -12}
+        - {x: -27.5, y: -18}
+        - {x: -29.5, y: -21}
+        - {x: -29.5, y: -36}
+        - {x: -28.5, y: -37}
+        - {x: -18.5, y: -37}
+      tessellationDetail: 0.49
+      bones: []
+      spriteID: 0715f5acd9a843110800000000000000
+      internalID: 1239768207743471984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight_Run_dir5_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 122
+        width: 58
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 22, y: -37}
+        - {x: 25, y: -32}
+        - {x: 25, y: -26}
+        - {x: 23, y: -15}
+        - {x: 27, y: -12}
+        - {x: 29, y: -10}
+        - {x: 29, y: -1}
+        - {x: 26, y: 5}
+        - {x: 29, y: 14}
+        - {x: 29, y: 30}
+        - {x: 24, y: 35}
+        - {x: 19, y: 38}
+        - {x: 5, y: 38}
+        - {x: 0, y: 31}
+        - {x: -5, y: 20}
+        - {x: -9, y: 13}
+        - {x: -9, y: 7}
+        - {x: -16, y: 1}
+        - {x: -29, y: -12}
+        - {x: -29, y: -21}
+        - {x: -22, y: -26}
+        - {x: -20, y: -25}
+        - {x: -13, y: -27}
+        - {x: -11, y: -27}
+        - {x: -3, y: -23}
+        - {x: 0, y: -18}
+        - {x: 2, y: -24}
+        - {x: 3, y: -35}
+        - {x: 7, y: -38}
+        - {x: 17, y: -38}
+      tessellationDetail: 0.457
+      bones: []
+      spriteID: 16139c9e19360a100800000000000000
+      internalID: 117203068655317345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7eea456dfde10844a85da9a629dbb102
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Knight_Run_dir5_0: -2019767610053749308
+      Knight_Run_dir5_1: -5483405218906546501
+      Knight_Run_dir5_2: -4935767960067896005
+      Knight_Run_dir5_3: -868735521687556648
+      Knight_Run_dir5_4: 2833061200117285487
+      Knight_Run_dir5_5: -6060556540822022640
+      Knight_Run_dir5_6: 1239768207743471984
+      Knight_Run_dir5_7: 117203068655317345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
